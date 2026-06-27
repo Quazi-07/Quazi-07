@@ -1,8 +1,8 @@
 - 👋 Hi, I’m (@Quazi-07) Md. Saifur Rahman
-- 👀 I’m interested in Big Data, Data Analysis & Visualization, Machine Learning & Deep Learning.
-- 🌱 I’m currently doing my Ph. D. on big data analysis via machine learning.
-- 💞️ I’m looking to collaborate on data science.
-- 📫 How to reach me: iamsaif07@gmail.com
+- 👀 I am a Data Scientist / Machine Learning Scientist with expertise in data analytics, machine learning, deep learning, predictive modeling, healthcare analytics, predictive model and AI-driven decision support (GenAI/LLM).
+- 🌱 I’m interested in data science, machine learning, AI, generative AI, healthcare analytics, EHR data analysis, forecasting, and business intelligence.
+- 💞️ I’m open to collaborating on industry-focused data science, machine learning, healthcare AI, and analytics projects
+- 📫 Reach me at: iamsaif07@gmail.com
 
 <!---
 Quazi-07/Quazi-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
